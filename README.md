@@ -2,6 +2,9 @@
 # basic-calculator 
  
 Essa é uma calculadora simples desenvolvida em JavaScript que permite fazer operações básicas de adição, subtração, multiplicação e divisão.
+
+![image](https://user-images.githubusercontent.com/62481734/220345147-e1a80f1b-23db-4b9a-9ff2-afd22f6aef8e.png)
+
  
 # Instruções de uso
 1. Clone o repositorio com o Git clone 'endereço Http'
